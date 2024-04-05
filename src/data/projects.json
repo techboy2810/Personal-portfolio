@@ -1,0 +1,26 @@
+[
+  {
+    "title": "STOPWATCH",
+    "imageSrc": "projects/stopwatch.png",
+    "description": "A stopwatch containing multiple features like start, pause, lap, reset.",
+    "skills": ["HTML", "React","Tailwind CSS"],  
+    "demo": "https://techboy2810stopwatch.netlify.app/",
+    "source": "https://github.com/techboy2810/PRODIGY_WD_02"
+  },
+  {
+    "title": "TIC-TAC-TOE",
+    "imageSrc": "projects/tic-tac-toe.png",
+    "description": "A simple TIC-TAC-TOE game that can be played by 2-players.",
+    "skills": ["HTML", "React","Tailwind CSS"],
+    "demo": "https://techboy2810tic-tac-toe.netlify.app/",
+    "source": "https://github.com/techboy2810/PRODIGY_WD_03"
+  },
+  {
+    "title": "Weather",
+    "imageSrc": "projects/weather.png",
+    "description": "A Weather website that fetches data using open weather API .",
+    "skills": ["HTML", "CSS", "React"],
+    "demo": "https://techboy2810weather.netlify.app/",
+    "source": "https://github.com/techboy2810/PRODIGY_WD_05"
+  }
+]
