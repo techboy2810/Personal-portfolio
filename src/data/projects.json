@@ -16,7 +16,7 @@
     "source": "https://github.com/techboy2810/PRODIGY_WD_03"
   },
   {
-    "title": "Weather",
+    "title": "WEATHER APP",
     "imageSrc": "projects/weather.png",
     "description": "A Weather website that fetches data using open weather API .",
     "skills": ["HTML", "CSS", "React"],
