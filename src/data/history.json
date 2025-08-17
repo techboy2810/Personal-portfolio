@@ -1,10 +1,10 @@
 [
   {
-    "role": "Web Developer Intern",
-    "organisation": "Prodigy Infotech",
-    "startDate": "March, 2024",
-    "endDate": "April, 2024",
-    "experiences": ["Worked on building projects", "Completed multiple tasks"],
-    "imageSrc": "history/prodigyinfotech.png"
+    "role": "Technical consultant",
+    "organisation": "Highradius",
+    "startDate": "June, 2026",
+    "endDate": "Present",
+    "experiences": ["Working on debugging the code"],
+    "imageSrc": "history/highradius.png"
   }
 ]
